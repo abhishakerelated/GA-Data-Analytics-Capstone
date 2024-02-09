@@ -1,0 +1,281 @@
+Position,Club,MP,W,D,L,GF,GA,GD,Pts,Group,Status,HP,HW,HD,HL,HGF,HGA,AP,AW,AD,AL,AGF,AGA,Last 5,Description,Season
+1,Manchester United,38,23,11,4,78,37,41,80,Premier League,,19,18,1,0,49,12,19,5,10,4,29,25,WDWLW,UEFA Champions League,2010
+2,Chelsea,38,21,8,9,69,33,36,71,Premier League,,19,14,3,2,39,13,19,7,5,7,30,20,LDLWW,UEFA Champions League,2010
+3,Manchester City,38,21,8,9,60,33,27,71,Premier League,,19,13,4,2,34,12,19,8,4,7,26,21,WWWLW,UEFA Champions League,2010
+4,Arsenal,38,19,11,8,72,43,29,68,Premier League,,19,11,4,4,33,15,19,8,7,4,39,28,DLLWL,UEFA Champions League Qualifiers,2010
+5,Tottenham,38,16,14,8,55,46,9,62,Premier League,,19,9,9,1,30,19,19,7,5,7,25,27,WWLDL,UEFA Europa League,2010
+6,Liverpool,38,17,7,14,59,44,15,58,Premier League,,19,12,4,3,37,14,19,5,3,11,22,30,LLWWW,,2010
+7,Everton,38,13,15,10,51,45,6,54,Premier League,,19,9,7,3,31,23,19,4,8,7,20,22,WLWDL,,2010
+8,Fulham,38,11,16,11,49,43,6,49,Premier League,,19,8,7,4,30,23,19,3,9,7,19,20,DWLWW,,2010
+9,Aston Villa,38,12,12,14,48,59,-11,48,Premier League,,19,8,7,4,26,19,19,4,5,10,22,40,WWDLD,,2010
+10,Sunderland,38,12,11,15,45,56,-11,47,Premier League,,19,7,5,7,25,27,19,5,6,8,20,29,WLWLW,,2010
+11,West Brom,38,12,11,15,56,71,-15,47,Premier League,,19,8,6,5,30,30,19,4,5,10,26,41,DWLWD,,2010
+12,Newcastle,38,11,13,14,56,57,-1,46,Premier League,,19,6,8,5,41,27,19,5,5,9,15,30,DDWLD,,2010
+13,Stoke City,38,13,7,18,46,48,-2,46,Premier League,,19,10,4,5,31,18,19,3,3,13,15,30,LLWDW,,2010
+14,Bolton,38,12,10,16,52,56,-4,46,Premier League,,19,10,5,4,34,24,19,2,5,12,18,32,LLLLL,,2010
+15,Blackburn,38,11,10,17,46,59,-13,43,Premier League,,19,7,7,5,22,16,19,4,3,12,24,43,WDDWL,,2010
+16,Wigan,38,9,15,14,40,61,-21,42,Premier League,,19,5,8,6,22,34,19,4,7,8,18,27,WWDDL,,2010
+17,Wolves,38,11,7,20,46,66,-20,40,Premier League,,19,8,4,7,30,30,19,3,3,13,16,36,LWWDL,,2010
+18,Birmingham,38,8,15,15,37,58,-21,39,Premier League,,19,6,8,5,19,22,19,2,7,10,18,36,LLLDL,Relegation,2010
+19,Blackpool,38,10,9,19,55,78,-23,39,Premier League,,19,5,5,9,30,37,19,5,4,10,25,41,LWDDD,Relegation,2010
+20,West Ham,38,7,12,19,43,70,-27,33,Premier League,,19,5,5,9,24,31,19,2,7,10,19,39,LLDLL,Relegation,2010
+1,Manchester City,38,28,5,5,93,29,64,89,Premier League,,19,18,1,0,55,12,19,10,4,5,38,17,WWWWW,UEFA Champions League,2011
+2,Manchester United,38,28,5,5,89,33,56,89,Premier League,,19,15,2,2,52,19,19,13,3,3,37,14,WWLDW,UEFA Champions League,2011
+3,Arsenal,38,21,7,10,74,49,25,70,Premier League,,19,12,4,3,39,17,19,9,3,7,35,32,WDDDL,UEFA Champions League,2011
+4,Tottenham,38,20,9,9,66,41,25,69,Premier League,,19,13,3,3,39,17,19,7,6,6,27,24,WDWWL,UEFA Champions League Qualifiers,2011
+5,Newcastle,38,19,8,11,56,51,5,65,Premier League,,19,11,5,3,29,17,19,8,3,8,27,34,LLWLW,UEFA Europa League,2011
+6,Chelsea,38,18,10,10,65,46,19,64,Premier League,,19,12,3,4,41,24,19,6,7,6,24,22,WLLWD,,2011
+7,Everton,38,15,11,12,50,40,10,56,Premier League,,19,10,3,6,28,15,19,5,8,6,22,25,WDDWD,,2011
+8,Liverpool,38,14,10,14,47,40,7,52,Premier League,,19,6,9,4,24,16,19,8,1,10,23,24,LWLWL,,2011
+9,Fulham,38,14,10,14,48,51,-3,52,Premier League,,19,10,5,4,36,26,19,4,5,10,12,25,LWWLW,,2011
+10,West Brom,38,13,8,17,45,52,-7,47,Premier League,,19,6,3,10,21,22,19,7,5,7,24,30,LDDWW,,2011
+11,Swansea,38,12,11,15,44,51,-7,47,Premier League,,19,8,7,4,27,18,19,4,4,11,17,33,WLDDW,,2011
+12,Norwich,38,12,11,15,52,66,-14,47,Premier League,,19,7,6,6,28,30,19,5,5,9,24,36,WDLLL,,2011
+13,Sunderland,38,11,12,15,45,46,-1,45,Premier League,,19,7,7,5,26,17,19,4,5,10,19,29,LLDDD,,2011
+14,Stoke City,38,11,12,15,36,53,-17,45,Premier League,,19,7,8,4,25,20,19,4,4,11,11,33,DLDDL,,2011
+15,Wigan,38,11,10,17,42,62,-20,43,Premier League,,19,5,7,7,22,27,19,6,3,10,20,35,WWWLW,,2011
+16,Aston Villa,38,7,17,14,37,53,-16,38,Premier League,,19,4,7,8,20,25,19,3,10,6,17,28,LDDLD,,2011
+17,QPR,38,10,7,21,43,66,-23,37,Premier League,,19,7,5,7,24,25,19,3,2,14,19,41,LWLWL,,2011
+18,Bolton,38,10,6,22,46,77,-31,36,Premier League,,19,4,4,11,23,39,19,6,2,11,23,38,DDLDW,Relegation,2011
+19,Blackburn,38,8,7,23,48,78,-30,31,Premier League,,19,6,1,12,26,33,19,2,6,11,22,45,LLLWL,Relegation,2011
+20,Wolves,38,5,10,23,40,82,-42,25,Premier League,,19,3,3,13,19,43,19,2,7,10,21,39,LDDLD,Relegation,2011
+1,Manchester United,38,28,5,5,86,43,43,89,Premier League,,19,16,0,3,45,19,19,12,5,2,41,24,DWLDW,UEFA Champions League,2012
+2,Manchester City,38,23,9,6,66,34,32,78,Premier League,,19,14,3,2,41,15,19,9,6,4,25,19,LWWDW,UEFA Champions League,2012
+3,Chelsea,38,22,9,7,75,39,36,75,Premier League,,19,12,5,2,41,16,19,10,4,5,34,23,WWDWW,UEFA Champions League,2012
+4,Arsenal,38,21,10,7,72,37,35,73,Premier League,,19,11,5,3,47,23,19,10,5,4,25,14,WWWDW,UEFA Champions League Qualifiers,2012
+5,Tottenham,38,21,9,8,66,46,20,72,Premier League,,19,11,5,3,29,18,19,10,4,5,37,28,WWDWD,UEFA Europa League,2012
+6,Everton,38,16,15,7,55,40,15,63,Premier League,,19,12,6,1,33,17,19,4,9,6,22,23,LWDWL,,2012
+7,Liverpool,38,16,13,9,71,43,28,61,Premier League,,19,9,6,4,33,16,19,7,7,5,38,27,WWDWD,,2012
+8,West Brom,38,14,7,17,53,57,-4,49,Premier League,,19,9,4,6,32,25,19,5,3,11,21,32,DLLLW,,2012
+9,Swansea,38,11,13,14,47,51,-4,46,Premier League,,19,6,8,5,28,26,19,5,5,9,19,25,LLWDL,,2012
+10,West Ham,38,12,10,16,45,53,-8,46,Premier League,,19,9,6,4,34,22,19,3,4,12,11,31,WLDLW,,2012
+11,Norwich,38,10,14,14,41,58,-17,44,Premier League,,19,8,7,4,25,20,19,2,7,10,16,38,WWLLW,,2012
+12,Fulham,38,11,10,17,50,60,-10,43,Premier League,,19,7,3,9,28,30,19,4,7,8,22,30,WLLLL,,2012
+13,Stoke City,38,9,15,14,34,45,-11,42,Premier League,,19,7,7,5,21,22,19,2,8,9,13,23,DLDWW,,2012
+14,Southampton,38,9,14,15,49,60,-11,41,Premier League,,19,6,7,6,26,24,19,3,7,9,23,36,DDLLD,,2012
+15,Aston Villa,38,10,11,17,47,69,-22,41,Premier League,,19,5,5,9,23,28,19,5,6,8,24,41,DLWWL,,2012
+16,Newcastle,38,11,8,19,45,68,-23,41,Premier League,,19,9,1,9,24,31,19,2,7,10,21,37,LWDLD,,2012
+17,Sunderland,38,9,12,17,41,54,-13,39,Premier League,,19,5,8,6,20,19,19,4,4,11,21,35,LDDLW,,2012
+18,Wigan,38,9,9,20,47,73,-26,36,Premier League,,19,4,6,9,26,39,19,5,3,11,21,34,DLLWD,Relegation,2012
+19,Reading,38,6,10,22,43,73,-30,28,Premier League,,19,4,8,7,23,33,19,2,2,15,20,40,LLWDL,Relegation,2012
+20,QPR,38,4,13,21,30,60,-30,25,Premier League,,19,2,8,9,13,28,19,2,5,12,17,32,LLLDL,Relegation,2012
+1,Manchester City,38,27,5,6,102,37,65,86,Premier League,,19,17,1,1,63,13,19,10,4,5,39,24,WWWWW,UEFA Champions League,2013
+2,Liverpool,38,26,6,6,101,50,51,84,Premier League,,19,16,1,2,53,18,19,10,5,4,48,32,WDLWW,UEFA Champions League,2013
+3,Chelsea,38,25,7,6,71,27,44,82,Premier League,,19,15,3,1,43,11,19,10,4,5,28,16,WDWLW,UEFA Champions League,2013
+4,Arsenal,38,24,7,7,68,41,27,79,Premier League,,19,13,5,1,36,11,19,11,2,6,32,30,WWWWW,UEFA Champions League Qualifiers,2013
+5,Everton,38,21,9,8,61,39,22,72,Premier League,,19,13,3,3,38,19,19,8,6,5,23,20,WLLWL,UEFA Europa League,2013
+6,Tottenham,38,21,6,11,55,51,4,69,Premier League,,19,11,3,5,30,23,19,10,3,6,25,28,WLWWD,,2013
+7,Manchester United,38,19,7,12,64,43,21,64,Premier League,,19,9,3,7,29,21,19,10,4,5,35,22,DWLWL,,2013
+8,Southampton,38,15,11,12,54,46,8,56,Premier League,,19,8,6,5,32,23,19,7,5,7,22,23,DWWDL,,2013
+9,Stoke City,38,13,11,14,45,52,-7,50,Premier League,,19,10,6,3,27,17,19,3,5,11,18,35,WWLDW,,2013
+10,Newcastle,38,15,4,19,43,59,-16,49,Premier League,,19,8,3,8,23,28,19,7,1,11,20,31,LWLLL,,2013
+11,Crystal Palace,38,13,6,19,33,48,-15,45,Premier League,,19,8,3,8,18,23,19,5,3,11,15,25,DDLWW,,2013
+12,Swansea,38,11,9,18,54,54,0,42,Premier League,,19,6,5,8,33,26,19,5,4,10,21,28,WLWWL,,2013
+13,West Ham,38,11,7,20,40,51,-11,40,Premier League,,19,7,3,9,25,26,19,4,4,11,15,25,LWLLL,,2013
+14,Sunderland,38,10,8,20,41,60,-19,38,Premier League,,19,5,3,11,21,27,19,5,5,9,20,33,LWWWW,,2013
+15,Aston Villa,38,10,8,20,39,61,-22,38,Premier League,,19,6,3,10,22,29,19,4,5,10,17,32,LLWLD,,2013
+16,Hull City,38,10,7,21,38,53,-15,37,Premier League,,19,7,4,8,20,21,19,3,3,13,18,32,LLLDL,,2013
+17,West Brom,38,7,15,16,43,59,-16,36,Premier League,,19,4,9,6,24,27,19,3,6,10,19,32,LLLWL,,2013
+18,Norwich,38,8,9,21,28,62,-34,33,Premier League,,19,6,6,7,17,18,19,2,3,14,11,44,LDLLL,Relegation,2013
+19,Fulham,38,9,5,24,40,85,-45,32,Premier League,,19,5,3,11,24,38,19,4,2,13,16,47,DLDLW,Relegation,2013
+20,Cardiff,38,7,9,22,32,74,-42,30,Premier League,,19,5,5,9,20,35,19,2,4,13,12,39,LLLDW,Relegation,2013
+1,Chelsea,38,26,9,3,73,32,41,87,Premier League,,19,15,4,0,36,9,19,11,5,3,37,23,WLDWW,UEFA Champions League,2014
+2,Manchester City,38,24,7,7,83,38,45,79,Premier League,,19,14,3,2,44,14,19,10,4,5,39,24,WWWWW,UEFA Champions League,2014
+3,Arsenal,38,22,9,7,71,36,35,75,Premier League,,19,12,5,2,41,14,19,10,4,5,30,22,WDDLW,UEFA Champions League,2014
+4,Manchester United,38,20,10,8,62,37,25,70,Premier League,,19,14,2,3,41,15,19,6,8,5,21,22,DDWLL,UEFA Champions League Qualifiers,2014
+5,Tottenham,38,19,7,12,58,53,5,64,Premier League,,19,10,3,6,31,24,19,9,4,6,27,29,WWLLD,UEFA Europa League,2014
+6,Liverpool,38,18,8,12,52,48,4,62,Premier League,,19,10,5,4,30,20,19,8,3,8,22,28,LLDWL,,2014
+7,Southampton,38,18,6,14,54,33,21,60,Premier League,,19,11,4,4,37,13,19,7,2,10,17,20,LWLLD,,2014
+8,Swansea,38,16,8,14,46,49,-3,56,Premier League,,19,9,5,5,27,22,19,7,3,9,19,27,LLWWW,,2014
+9,Stoke City,38,15,9,14,48,45,3,54,Premier League,,19,10,3,6,32,22,19,5,6,8,16,23,WDWLD,,2014
+10,Crystal Palace,38,13,9,16,47,51,-4,48,Premier League,,19,6,3,10,21,27,19,7,6,6,26,24,WWLLL,,2014
+11,Everton,38,12,11,15,48,50,-2,47,Premier League,,19,7,7,5,27,21,19,5,4,10,21,29,LWLLW,,2014
+12,West Ham,38,12,11,15,44,47,-3,47,Premier League,,19,9,4,6,25,18,19,3,7,9,19,29,LLLWD,,2014
+13,West Brom,38,11,11,16,38,51,-13,44,Premier League,,19,7,4,8,24,26,19,4,7,8,14,25,LWDWD,,2014
+14,Leicester,38,11,8,19,46,55,-9,41,Premier League,,19,7,5,7,28,22,19,4,3,12,18,33,WDWWL,,2014
+15,Newcastle,38,10,9,19,40,63,-23,39,Premier League,,19,7,5,7,26,27,19,3,4,12,14,36,WLDLL,,2014
+16,Sunderland,38,7,17,14,31,53,-22,38,Premier League,,19,4,8,7,16,27,19,3,9,7,15,26,LDDWW,,2014
+17,Aston Villa,38,10,8,20,31,57,-26,38,Premier League,,19,5,6,8,18,25,19,5,2,12,13,32,LLWWL,,2014
+18,Hull City,38,8,11,19,33,51,-18,35,Premier League,,19,5,5,9,19,24,19,3,6,10,14,27,DLLLW,Relegation,2014
+19,Burnley,38,7,12,19,28,53,-25,33,Premier League,,19,4,7,8,14,21,19,3,5,11,14,32,WDWLL,Relegation,2014
+20,QPR,38,8,6,24,42,73,-31,30,Premier League,,19,6,5,8,23,24,19,2,1,16,19,49,LWLLD,Relegation,2014
+1,Leicester,38,23,12,3,68,36,32,81,Premier League,,19,12,6,1,35,18,19,11,6,2,33,18,DWDWD,UEFA Champions League,2015
+2,Arsenal,38,20,11,7,65,36,29,71,Premier League,,19,12,4,3,31,11,19,8,7,4,34,25,WDWDW,UEFA Champions League,2015
+3,Tottenham,38,19,13,6,69,35,34,70,Premier League,,19,10,6,3,35,15,19,9,7,3,34,20,LLDDW,UEFA Champions League,2015
+4,Manchester City,38,19,9,10,71,41,30,66,Premier League,,19,12,2,5,47,21,19,7,7,5,24,20,DDLWD,UEFA Champions League Qualifiers,2015
+5,Manchester United,38,19,9,10,49,35,14,66,Premier League,,19,12,5,2,27,9,19,7,4,8,22,26,WLWDW,UEFA Europa League,2015
+6,Southampton,38,18,9,11,59,41,18,63,Premier League,,19,11,3,5,39,22,19,7,6,6,20,19,WWWWD,,2015
+7,West Ham,38,16,14,8,65,51,14,62,Premier League,,19,9,7,3,34,26,19,7,7,5,31,25,LWLWW,,2015
+8,Liverpool,38,16,12,10,63,50,13,60,Premier League,,19,8,8,3,33,22,19,8,4,7,30,28,DDWLD,,2015
+9,Stoke City,38,14,9,15,41,55,-14,51,Premier League,,19,8,4,7,22,24,19,6,5,8,19,31,WLDLL,,2015
+10,Chelsea,38,12,14,12,59,53,6,50,Premier League,,19,5,9,5,32,30,19,7,5,7,27,23,DDLDW,,2015
+11,Everton,38,11,14,13,59,55,4,47,Premier League,,19,6,5,8,35,30,19,5,9,5,24,25,WLLWL,,2015
+12,Swansea,38,12,11,15,42,52,-10,47,Premier League,,19,8,6,5,20,20,19,4,5,10,22,32,DWWLL,,2015
+13,Watford,38,12,9,17,40,50,-10,45,Premier League,,19,6,6,7,20,19,19,6,3,10,20,31,DLLWL,,2015
+14,West Brom,38,10,13,15,34,48,-14,43,Premier League,,19,6,5,8,20,26,19,4,8,7,14,22,DDLDL,,2015
+15,Crystal Palace,38,11,9,18,39,51,-12,42,Premier League,,19,6,3,10,19,23,19,5,6,8,20,28,LWLLD,,2015
+16,Bournemouth,38,11,9,18,45,67,-22,42,Premier League,,19,5,5,9,23,34,19,6,4,9,22,33,LDLLL,,2015
+17,Sunderland,38,9,12,17,48,62,-14,39,Premier League,,19,6,6,7,23,20,19,3,6,10,25,42,DWWDD,,2015
+18,Newcastle,38,9,10,19,44,65,-21,37,Premier League,,19,7,7,5,32,24,19,2,3,14,12,41,WDWDD,Relegation,2015
+19,Norwich,38,9,7,22,39,67,-28,34,Premier League,,19,6,5,8,26,30,19,3,2,14,13,37,LWLLL,Relegation,2015
+20,Aston Villa,38,3,8,27,27,76,-49,17,Premier League,,19,2,5,12,14,35,19,1,3,15,13,41,LDLLL,Relegation,2015
+1,Chelsea,38,30,3,5,85,33,52,93,Premier League,,19,17,0,2,55,17,19,13,3,3,30,16,WWWWW,UEFA Champions League,2016
+2,Tottenham,38,26,8,4,86,26,60,86,Premier League,,19,17,2,0,47,9,19,9,6,4,39,17,WWWLW,UEFA Champions League,2016
+3,Manchester City,38,23,9,6,80,39,41,78,Premier League,,19,11,7,1,37,17,19,12,2,5,43,22,WWWWD,UEFA Champions League,2016
+4,Liverpool,38,22,10,6,78,42,36,76,Premier League,,19,12,5,2,45,18,19,10,5,4,33,24,WWDWL,UEFA Champions League Qualifiers,2016
+5,Arsenal,38,23,6,9,77,44,33,75,Premier League,,19,14,3,2,39,16,19,9,3,7,38,28,WWWWW,UEFA Europa League,2016
+6,Manchester United,38,18,15,5,54,29,25,69,Premier League,,19,8,10,1,26,12,19,10,5,4,28,17,WDLLD,,2016
+7,Everton,38,17,10,11,62,44,18,61,Premier League,,19,13,4,2,42,16,19,4,6,9,20,28,LWLLD,,2016
+8,Southampton,38,12,10,16,41,48,-7,46,Premier League,,19,6,6,7,17,21,19,6,4,9,24,27,LDWLD,,2016
+9,Bournemouth,38,12,10,16,55,67,-12,46,Premier League,,19,9,4,6,35,29,19,3,6,10,20,38,DWDWW,,2016
+10,West Brom,38,12,9,17,43,51,-8,45,Premier League,,19,9,2,8,27,22,19,3,7,9,16,29,LLLDL,,2016
+11,West Ham,38,12,9,17,47,64,-17,45,Premier League,,19,7,4,8,19,31,19,5,5,9,28,33,WLWDD,,2016
+12,Leicester,38,12,8,18,48,63,-15,44,Premier League,,19,10,4,5,31,25,19,2,4,13,17,38,DLLWW,,2016
+13,Stoke City,38,11,11,16,41,56,-15,44,Premier League,,19,7,6,6,24,24,19,4,5,10,17,32,WLDDL,,2016
+14,Crystal Palace,38,12,5,21,50,63,-13,41,Premier League,,19,6,2,11,24,25,19,6,3,10,26,38,LWLLL,,2016
+15,Swansea,38,12,5,21,45,70,-25,41,Premier League,,19,8,3,8,27,34,19,4,2,13,18,36,WWWDW,,2016
+16,Burnley,38,11,7,20,39,55,-16,40,Premier League,,19,10,3,6,26,20,19,1,4,14,13,35,LLDWL,,2016
+17,Watford,38,11,7,20,40,68,-28,40,Premier League,,19,8,4,7,25,29,19,3,3,13,15,39,LLLLL,,2016
+18,Hull City,38,9,7,22,37,80,-43,34,Premier League,,19,8,4,7,28,35,19,1,3,15,9,45,LLLDW,Relegation,2016
+19,Middlesbrough,38,5,13,20,27,53,-26,28,Premier League,,19,4,6,9,17,23,19,1,7,11,10,30,LLLDW,Relegation,2016
+20,Sunderland,38,6,6,26,29,69,-40,24,Premier League,,19,3,5,11,16,34,19,3,1,15,13,35,LLLWL,Relegation,2016
+1,Manchester City,38,32,4,2,106,27,79,100,Premier League,same,19,16,2,1,61,14,19,16,2,1,45,13,WWDWW,UEFA Champions League,2017
+2,Manchester United,38,25,6,7,68,28,40,81,Premier League,same,19,15,2,2,38,9,19,10,4,5,30,19,WDLWW,UEFA Champions League,2017
+3,Tottenham,38,23,8,7,74,36,38,77,Premier League,up,19,13,4,2,40,16,19,10,4,5,34,20,WWLWD,UEFA Champions League,2017
+4,Liverpool,38,21,12,5,84,38,46,75,Premier League,down,19,12,7,0,45,10,19,9,5,5,39,28,WLDDW,UEFA Champions League,2017
+5,Chelsea,38,21,7,10,62,38,24,70,Premier League,same,19,11,4,4,30,16,19,10,3,6,32,22,LDWWW,UEFA Europa League,2017
+6,Arsenal,38,19,6,13,74,51,23,63,Premier League,same,19,15,2,2,54,20,19,4,4,11,20,31,WLWLW,,2017
+7,Burnley,38,14,12,12,36,39,-3,54,Premier League,same,19,7,5,7,16,17,19,7,7,5,20,22,LLDDL,,2017
+8,Everton,38,13,10,15,44,58,-14,49,Premier League,same,19,10,4,5,28,22,19,3,6,10,16,36,LDWWD,,2017
+9,Leicester,38,12,11,15,56,60,-4,47,Premier League,same,19,7,6,6,25,22,19,5,5,9,31,38,LWLLD,,2017
+10,Newcastle,38,12,8,18,39,47,-8,44,Premier League,same,19,8,4,7,21,17,19,4,4,11,18,30,WLLLL,,2017
+11,Crystal Palace,38,11,11,16,45,55,-10,44,Premier League,same,19,7,5,7,29,27,19,4,6,9,16,28,WWWDW,,2017
+12,Bournemouth,38,11,11,16,45,61,-16,44,Premier League,same,19,7,5,7,26,30,19,4,6,9,19,31,WWLLL,,2017
+13,West Ham,38,10,12,16,48,68,-20,42,Premier League,up,19,7,6,6,24,26,19,3,6,10,24,42,WDWLL,,2017
+14,Watford,38,11,8,19,44,64,-20,41,Premier League,down,19,7,6,6,27,31,19,4,2,13,17,33,LWLDL,,2017
+15,Brighton,38,9,13,16,34,54,-20,40,Premier League,down,19,7,8,4,24,25,19,2,5,12,10,29,LLWDD,,2017
+16,Huddersfield,38,9,10,19,28,58,-30,37,Premier League,same,19,6,5,8,16,25,19,3,5,11,12,33,LDDLW,,2017
+17,Southampton,38,7,15,16,37,56,-19,36,Premier League,up,19,4,7,8,20,26,19,3,8,8,17,30,LWDWD,,2017
+18,Swansea,38,8,9,21,28,56,-28,33,Premier League,down,19,6,3,10,17,24,19,2,6,11,11,32,LLLLL,Relegation,2017
+19,Stoke City,38,7,12,19,35,68,-33,33,Premier League,same,19,5,5,9,20,30,19,2,7,10,15,38,WLDDD,Relegation,2017
+20,West Brom,38,6,13,19,31,56,-25,31,Premier League,same,19,3,9,7,21,29,19,3,4,12,10,27,LWWDW,Relegation,2017
+1,Manchester City,38,32,2,4,95,23,72,98,Premier League,,19,18,0,1,57,12,19,14,2,3,38,11,WWWWW,Promotion - Champions League (Group Stage),2018
+2,Liverpool,38,30,7,1,89,22,67,97,Premier League,,19,17,2,0,55,10,19,13,5,1,34,12,WWWWW,Promotion - Champions League (Group Stage),2018
+3,Chelsea,38,21,9,8,63,39,24,72,Premier League,,19,12,6,1,39,12,19,9,3,7,24,27,DWDDL,Promotion - Champions League (Group Stage),2018
+4,Tottenham,38,23,2,13,67,39,28,71,Premier League,,19,12,2,5,34,16,19,11,0,8,33,23,DLLWL,Promotion - Champions League (Group Stage),2018
+5,Arsenal,38,21,7,10,73,51,22,70,Premier League,,19,14,3,2,42,16,19,7,4,8,31,35,WDLLL,Promotion - Europa League (Group Stage),2018
+6,Manchester United,38,19,9,10,65,54,11,66,Premier League,,19,10,6,3,33,25,19,9,3,7,32,29,LDDLL,Promotion - Europa League (Qualification),2018
+7,Wolves,38,16,9,13,47,46,1,57,Premier League,,19,10,4,5,28,21,19,6,5,8,19,25,LWWWD,,2018
+8,Everton,38,15,9,14,54,46,8,54,Premier League,,19,10,4,5,30,21,19,5,5,9,24,25,DWDWL,,2018
+9,Leicester,38,15,7,16,51,48,3,52,Premier League,,19,8,3,8,24,20,19,7,4,8,27,28,DLWDL,,2018
+10,West Ham,38,15,7,16,52,55,-3,52,Premier League,,19,9,4,6,32,27,19,6,3,10,20,28,WWWDL,,2018
+11,Watford,38,14,8,16,52,59,-7,50,Premier League,,19,8,3,8,26,28,19,6,5,8,26,31,LLLDW,,2018
+12,Crystal Palace,38,14,7,17,51,53,-2,49,Premier League,,19,5,5,9,19,23,19,9,2,8,32,30,WWDWL,,2018
+13,Newcastle,38,12,9,17,42,48,-6,45,Premier League,,19,8,1,10,24,25,19,4,8,7,18,23,WLDWW,,2018
+14,Bournemouth,38,13,6,19,56,70,-14,45,Premier League,,19,8,5,6,30,25,19,5,1,13,26,45,LWDLW,,2018
+15,Burnley,38,11,7,20,45,68,-23,40,Premier League,,19,7,2,10,24,32,19,4,5,10,21,36,LLLDW,,2018
+16,Southampton,38,9,12,17,45,65,-20,39,Premier League,,19,5,8,6,27,30,19,4,4,11,18,35,DLDDL,,2018
+17,Brighton,38,9,9,20,35,60,-25,36,Premier League,,19,6,5,8,19,28,19,3,4,12,16,32,LDDLD,,2018
+18,Cardiff,38,10,4,24,34,69,-35,34,Premier League,,19,6,2,11,21,38,19,4,2,13,13,31,WLLLW,Relegation - Championship,2018
+19,Fulham,38,7,5,26,34,81,-47,26,Premier League,,19,6,3,10,22,36,19,1,2,16,12,45,LLWWW,Relegation - Championship,2018
+20,Huddersfield,38,3,7,28,22,76,-54,16,Premier League,,19,2,3,14,10,31,19,1,4,14,12,45,DDLLL,Relegation - Championship,2018
+1,Liverpool,38,32,3,3,85,33,52,99,Premier League,same,19,18,1,0,52,16,19,14,2,3,33,17,WWLDW,Promotion - Champions League (Group Stage),2019
+2,Manchester City,38,26,3,9,102,35,67,81,Premier League,same,19,15,2,2,57,13,19,11,1,7,45,22,WWWWW,Promotion - Champions League (Group Stage),2019
+3,Manchester United,38,18,12,8,66,36,30,66,Premier League,same,19,10,7,2,40,17,19,8,5,6,26,19,WDWDW,Promotion - Champions League (Group Stage),2019
+4,Chelsea,38,20,6,12,69,54,15,66,Premier League,same,19,11,3,5,30,16,19,9,3,7,39,38,WLWLW,Promotion - Champions League (Group Stage),2019
+5,Leicester,38,18,8,12,67,41,26,62,Premier League,same,19,11,4,4,35,17,19,7,4,8,32,24,LLWLD,Promotion - Europa League (Group Stage),2019
+6,Tottenham,38,16,11,11,61,47,14,59,Premier League,same,19,12,3,4,36,17,19,4,8,7,25,30,DWWWD,Promotion - Europa League (Qualification),2019
+7,Wolves,38,15,14,9,51,40,11,59,Premier League,same,19,8,7,4,27,19,19,7,7,5,24,21,LWDWL,,2019
+8,Arsenal,38,14,14,10,56,48,8,56,Premier League,same,19,10,6,3,36,24,19,4,8,7,20,24,WLWLD,,2019
+9,Sheffield Utd,38,14,12,12,39,39,0,54,Premier League,same,19,10,3,6,24,15,19,4,9,6,15,24,LLLWW,,2019
+10,Burnley,38,15,9,14,43,50,-7,54,Premier League,same,19,8,4,7,24,23,19,7,5,7,19,27,LWDDW,,2019
+11,Southampton,38,15,7,16,51,60,-9,52,Premier League,same,19,6,3,10,21,35,19,9,4,6,30,25,WWDDD,,2019
+12,Everton,38,13,10,15,44,56,-12,49,Premier League,same,19,8,7,4,24,21,19,5,3,11,20,35,LWDLD,,2019
+13,Newcastle,38,11,11,16,38,58,-20,44,Premier League,same,19,6,8,5,20,21,19,5,3,11,18,37,LDLLL,,2019
+14,Crystal Palace,38,11,10,17,31,50,-19,43,Premier League,same,19,6,5,8,15,20,19,5,5,9,16,30,DLLLL,,2019
+15,Brighton,38,9,14,15,39,54,-15,41,Premier League,same,19,5,7,7,20,27,19,4,7,8,19,27,WDDLL,,2019
+16,West Ham,38,10,9,19,49,62,-13,39,Premier League,same,19,6,4,9,30,33,19,4,5,10,19,29,DDWWL,,2019
+17,Aston Villa,38,9,8,21,41,67,-26,35,Premier League,same,19,7,3,9,22,30,19,2,5,12,19,37,DWDWL,,2019
+18,Bournemouth,38,9,7,22,40,65,-25,34,Premier League,same,19,5,6,8,22,30,19,4,1,14,18,35,WLLWD,Relegation - Championship,2019
+19,Watford,38,8,10,20,36,64,-28,34,Premier League,same,19,6,6,7,22,27,19,2,4,13,14,37,LLLWW,Relegation - Championship,2019
+20,Norwich,38,5,6,27,26,75,-49,21,Premier League,same,19,4,3,12,19,37,19,1,3,15,7,38,LLLLL,Relegation - Championship,2019
+1,Manchester City,38,27,5,6,83,32,51,86,Premier League,same,19,13,2,4,43,17,19,14,3,2,40,15,WLWLW,Promotion - Champions League (Group Stage),2020
+2,Manchester United,38,21,11,6,73,44,29,74,Premier League,same,19,9,4,6,38,28,19,12,7,0,35,16,WDLLW,Promotion - Champions League (Group Stage),2020
+3,Liverpool,38,20,9,9,68,42,26,69,Premier League,same,19,10,3,6,29,20,19,10,6,3,39,22,WWWWW,Promotion - Champions League (Group Stage),2020
+4,Chelsea,38,19,10,9,58,36,22,67,Premier League,same,19,9,6,4,31,18,19,10,4,5,27,18,LWLWW,Promotion - Champions League (Group Stage),2020
+5,Leicester,38,20,6,12,68,50,18,66,Premier League,same,19,9,1,9,34,30,19,11,5,3,34,20,LLWLD,Promotion - Europa League (Group Stage),2020
+6,West Ham,38,19,8,11,62,47,15,65,Premier League,same,19,10,4,5,32,22,19,9,4,6,30,25,WWDLW,Promotion - Europa League (Group Stage),2020
+7,Tottenham,38,18,8,12,68,45,23,62,Premier League,same,19,10,3,6,35,20,19,8,5,6,33,25,WLWLW,Promotion - Europa Conference League (Qualification),2020
+8,Arsenal,38,18,7,13,55,39,16,61,Premier League,same,19,8,4,7,24,21,19,10,3,6,31,18,WWWWW,,2020
+9,Leeds,38,18,5,15,62,54,8,59,Premier League,same,19,8,5,6,28,21,19,10,0,9,34,33,WWWWL,,2020
+10,Everton,38,17,8,13,47,48,-1,59,Premier League,same,19,6,4,9,24,28,19,11,4,4,23,20,LWLDW,,2020
+11,Aston Villa,38,16,7,15,55,46,9,55,Premier League,same,19,7,4,8,29,27,19,9,3,7,26,19,WWLDL,,2020
+12,Newcastle,38,12,9,17,46,62,-16,45,Premier League,same,19,6,5,8,26,33,19,6,4,9,20,29,WWLWL,,2020
+13,Wolves,38,12,9,17,36,52,-16,45,Premier League,same,19,7,4,8,21,25,19,5,5,9,15,27,LLLWD,,2020
+14,Crystal Palace,38,12,8,18,41,66,-25,44,Premier League,same,19,6,5,8,20,32,19,6,3,10,21,34,LLWLW,,2020
+15,Southampton,38,12,7,19,47,68,-21,43,Premier League,same,19,8,3,8,28,25,19,4,4,11,19,43,LLWWL,,2020
+16,Brighton,38,9,14,15,40,46,-6,41,Premier League,same,19,4,9,6,22,22,19,5,5,9,18,24,LWDLW,,2020
+17,Burnley,38,10,9,19,33,55,-22,39,Premier League,same,19,4,6,9,14,27,19,6,3,10,19,28,LLLWL,,2020
+18,Fulham,38,5,13,20,27,53,-26,28,Premier League,same,19,2,4,13,9,28,19,3,9,7,18,25,LDLLL,Relegation - Championship,2020
+19,West Brom,38,5,11,22,35,76,-41,26,Premier League,same,19,3,6,10,15,39,19,2,5,12,20,37,LLLLD,Relegation - Championship,2020
+20,Sheffield Utd,38,7,2,29,20,63,-43,23,Premier League,same,19,5,1,13,12,27,19,2,1,16,8,36,WLWLL,Relegation - Championship,2020
+1,Manchester City,38,29,6,3,99,26,73,93,Premier League,same,19,15,2,2,58,15,19,14,4,1,41,11,WDWWW,Promotion - Champions League (Group Stage),2021
+2,Liverpool,38,28,8,2,94,26,68,92,Premier League,same,19,15,4,0,49,9,19,13,4,2,45,17,WWWDW,Promotion - Champions League (Group Stage),2021
+3,Chelsea,38,21,11,6,76,33,43,74,Premier League,same,19,9,7,3,37,22,19,12,4,3,39,11,WDWDL,Promotion - Champions League (Group Stage),2021
+4,Tottenham,38,22,5,11,69,40,29,71,Premier League,same,19,13,1,5,38,19,19,9,4,6,31,21,WWWDW,Promotion - Champions League (Group Stage),2021
+5,Arsenal,38,22,3,13,61,48,13,69,Premier League,same,19,13,2,4,35,17,19,9,1,9,26,31,WLLWW,Promotion - Europa League (Group Stage),2021
+6,Manchester United,38,16,10,12,57,57,0,58,Premier League,same,19,10,5,4,32,22,19,6,5,8,25,35,LLWDL,Promotion - Europa League (Group Stage),2021
+7,West Ham,38,16,8,14,60,51,9,56,Premier League,same,19,9,5,5,33,26,19,7,3,9,27,25,LDWLL,Promotion - Europa Conference League (Qualification),2021
+8,Leicester,38,14,10,14,62,59,3,52,Premier League,same,19,10,4,5,34,23,19,4,6,9,28,36,WDWWL,,2021
+9,Brighton,38,12,15,11,42,44,-2,51,Premier League,same,19,5,7,7,19,23,19,7,8,4,23,21,WDWWD,,2021
+10,Wolves,38,15,6,17,38,43,-5,51,Premier League,same,19,7,3,9,20,25,19,8,3,8,18,18,LDLDL,,2021
+11,Newcastle,38,13,10,15,44,62,-18,49,Premier League,same,19,8,6,5,26,27,19,5,4,10,18,35,WWLLW,,2021
+12,Crystal Palace,38,11,15,12,50,46,4,48,Premier League,same,19,7,8,4,27,17,19,4,7,8,23,29,WLDWW,,2021
+13,Brentford,38,13,7,18,48,56,-8,46,Premier League,same,19,7,3,9,22,21,19,6,4,9,26,35,LWWLD,,2021
+14,Aston Villa,38,13,6,19,52,54,-2,45,Premier League,same,19,6,5,8,29,29,19,7,1,11,23,25,LDDLW,,2021
+15,Southampton,38,9,13,16,43,67,-24,40,Premier League,same,19,6,7,6,23,24,19,3,6,10,20,43,LLLLD,,2021
+16,Everton,38,11,6,21,43,66,-23,39,Premier League,same,19,9,2,8,27,25,19,2,4,13,16,41,LWLDW,,2021
+17,Leeds,38,9,11,18,42,79,-37,38,Premier League,same,19,4,6,9,19,38,19,5,5,9,23,41,WDLLL,,2021
+18,Burnley,38,7,14,17,34,53,-19,35,Premier League,same,19,5,6,8,18,25,19,2,8,9,16,28,LDLLW,Relegation - Championship,2021
+19,Watford,38,6,5,27,34,77,-43,23,Premier League,same,19,2,2,15,17,46,19,4,3,12,17,31,LLDLL,Relegation - Championship,2021
+20,Norwich,38,5,7,26,23,84,-61,22,Premier League,same,19,3,3,13,12,43,19,2,4,13,11,41,LDLLL,Relegation - Championship,2021
+1,Manchester City,38,28,5,5,94,33,61,89,Premier League,same,19,17,1,1,60,17,19,11,4,4,34,16,LDWWW,Promotion - Champions League (Group Stage: ),2022
+2,Arsenal,38,26,6,6,88,43,45,84,Premier League,same,19,14,3,2,53,25,19,12,3,4,35,18,WLLWW,Promotion - Champions League (Group Stage: ),2022
+3,Manchester United,38,23,6,9,58,43,15,75,Premier League,same,19,15,3,1,36,10,19,8,3,8,22,33,WWWWL,Promotion - Champions League (Group Stage: ),2022
+4,Newcastle,38,19,14,5,68,33,35,71,Premier League,same,19,11,6,2,36,14,19,8,8,3,32,19,DDWDL,Promotion - Champions League (Group Stage: ),2022
+5,Liverpool,38,19,10,9,75,47,28,67,Premier League,same,19,13,5,1,46,17,19,6,5,8,29,30,DDWWW,Promotion - Europa League (Group Stage: ),2022
+6,Brighton,38,18,8,12,72,53,19,62,Premier League,same,19,10,4,5,37,21,19,8,4,7,35,32,LDWLW,Promotion - Europa League (Group Stage: ),2022
+7,Aston Villa,38,18,7,13,51,46,5,61,Premier League,same,19,12,2,5,33,21,19,6,5,8,18,25,WDWLL,Promotion - Europa Conference League (Qualification: ),2022
+8,Tottenham,38,18,6,14,70,63,7,60,Premier League,same,19,12,1,6,37,25,19,6,5,8,33,38,WLLWL,,2022
+9,Brentford,38,15,14,9,58,46,12,59,Premier League,same,19,10,7,2,35,18,19,5,7,7,23,28,WWWLW,,2022
+10,Fulham,38,15,7,16,55,53,2,52,Premier League,same,19,8,5,6,31,29,19,7,2,10,24,24,LDWWL,,2022
+11,Crystal Palace,38,11,12,15,40,49,-9,45,Premier League,same,19,7,7,5,21,23,19,4,5,10,19,26,DDWLW,,2022
+12,Chelsea,38,11,11,16,38,47,-9,44,Premier League,same,19,6,7,6,20,19,19,5,4,10,18,28,DLLDW,,2022
+13,Wolves,38,11,8,19,31,58,-27,41,Premier League,same,19,9,3,7,19,20,19,2,5,12,12,38,LDLWL,,2022
+14,West Ham,38,11,7,20,42,55,-13,40,Premier League,same,19,8,4,7,26,24,19,3,3,13,16,31,LWLWL,,2022
+15,Bournemouth,38,11,6,21,37,71,-34,39,Premier League,same,19,6,4,9,20,28,19,5,2,12,17,43,LLLLW,,2022
+16,Nottingham Forest,38,9,11,18,38,68,-30,38,Premier League,same,19,8,6,5,27,24,19,1,5,13,11,44,DWDWL,,2022
+17,Everton,38,8,12,18,34,57,-23,36,Premier League,same,19,6,3,10,16,27,19,2,9,8,18,30,WDLWD,,2022
+18,Leicester,38,9,7,22,51,68,-17,34,Premier League,same,19,5,4,10,23,27,19,4,3,12,28,41,WDLLD,Relegation - Championship,2022
+19,Leeds,38,7,10,21,48,78,-30,31,Premier League,same,19,5,7,7,26,37,19,2,3,14,22,41,LLDLL,Relegation - Championship,2022
+20,Southampton,38,6,7,25,36,73,-37,25,Premier League,same,19,2,5,12,19,37,19,4,2,13,17,36,DLLLL,Relegation - Championship,2022
+1,Liverpool,21,14,6,1,47,18,29,48,Premier League,same,10,8,2,0,26,8,11,6,4,1,21,10,WWWDD,Promotion - Champions League (Group Stage: ),2023
+2,Manchester City,20,13,4,3,48,23,25,43,Premier League,same,9,6,3,0,24,9,11,7,1,3,24,14,WWWDW,Promotion - Champions League (Group Stage: ),2023
+3,Arsenal,21,13,4,4,42,20,22,43,Premier League,same,11,8,2,1,27,10,10,5,2,3,15,10,WLLDW,Promotion - Champions League (Group Stage: ),2023
+4,Aston Villa,21,13,4,4,43,27,16,43,Premier League,same,10,9,1,0,29,8,11,4,3,4,14,19,DWLDW,Promotion - Champions League (Group Stage: ),2023
+5,Tottenham,21,12,4,5,44,31,13,40,Premier League,same,10,7,0,3,20,13,11,5,4,2,24,18,DWLWW,Promotion - Europa League (Group Stage: ),2023
+6,West Ham,21,10,5,6,35,32,3,35,Premier League,same,10,5,3,2,17,10,11,5,2,4,18,22,DDWWW,,2023
+7,Brighton,21,8,8,5,38,33,5,32,Premier League,same,11,5,5,1,22,14,10,3,3,4,16,19,DDWDL,,2023
+8,Manchester United,21,10,2,9,24,29,-5,32,Premier League,same,11,6,1,4,15,18,10,4,1,5,9,11,DLWLD,,2023
+9,Chelsea,21,9,4,8,35,31,4,31,Premier League,same,11,5,3,3,18,14,10,4,1,5,17,17,WWWLW,,2023
+10,Newcastle,21,9,2,10,41,32,9,29,Premier League,same,11,8,0,3,25,10,10,1,2,7,16,22,LLLLW,,2023
+11,Wolves,21,8,5,8,30,31,-1,29,Premier League,same,10,5,3,2,16,14,11,3,2,6,14,17,DWWWL,,2023
+12,Bournemouth,20,7,4,9,28,39,-11,25,Premier League,same,10,3,3,4,11,16,10,4,1,5,17,23,LLWW,,2023
+13,Fulham,21,7,3,11,28,36,-8,24,Premier League,same,10,6,0,4,19,12,11,1,3,7,9,24,LWLLL,,2023
+14,Brentford,20,6,4,10,29,33,-4,22,Premier League,same,11,4,3,4,20,20,9,2,1,6,9,13,WLLLL,,2023
+15,Crystal Palace,21,5,6,10,22,34,-12,21,Premier League,same,10,2,3,5,11,14,11,3,3,5,11,20,LWLDD,,2023
+16,Nottingham Forest,21,5,5,11,26,38,-12,20,Premier League,same,10,3,3,4,14,15,11,2,2,7,12,23,LWWLL,,2023
+17,Everton,21,8,3,10,24,28,-4,17,Premier League,same,11,3,2,6,11,12,10,5,1,4,13,16,DLLLW,,2023
+18,Luton,20,4,4,12,24,38,-14,16,Premier League,same,10,2,2,6,13,17,10,2,2,6,11,21,DLWW,Relegation - Championship,2023
+19,Burnley,21,3,3,15,21,42,-21,12,Premier League,same,11,1,1,9,11,25,10,2,2,6,10,17,DLLWL,Relegation - Championship,2023
+20,Sheffield Utd,21,2,4,15,17,51,-34,10,Premier League,same,11,2,2,7,12,26,10,0,2,8,5,25,DLLDL,Relegation - Championship,2023
